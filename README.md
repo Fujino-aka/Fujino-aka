@@ -1,6 +1,7 @@
 # こんにちは
-• **I'm correctly learning [![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)**
+• **I'm correctly learning Typescript, GO.**
+• **Langs I know HTML, Python.**
 
-• **Langs I know [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)**
-
-
+**Contact me**
+![Telegram Badge](https://img.shields.io/badge/-aka-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/consoleneeded)
+![Gmail Badge](https://img.shields.io/badge/-akane-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Fujinoaka@gmail.com)
