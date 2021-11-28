@@ -1,1 +1,1 @@
-# <img src="https://tenor.com/bGmwF.gif.gif" width ="50px"> こんにちは
+# <img src="https://tenor.com/bGmwF.gif" width ="50px"> こんにちは
