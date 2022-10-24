@@ -1,6 +1,6 @@
 # こんにちは
 • **I'm correctly learning Typescript, GO.**<br>
-• **Langs I know HTML, Python.**
+• **Langs I know HTML, Python, Java.**
 
 **Contact me**
 
